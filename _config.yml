@@ -106,7 +106,7 @@ theme: ocean
 deploy:
   type: git
   repo: https://github.com/jzl00/jzl00.github.io.git
-  branch: main
+  branch: master
 
 
 search:
